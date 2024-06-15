@@ -1,1 +1,1 @@
-# Fask_RestApi_to_Mysqldb_BasicAuth
+# Flask Rest ApI to Mysqldb with Basic Authentication
